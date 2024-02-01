@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @Merin-Yilmaz
-- 🌱 I’m currently learning Software Development at Northcoders
+- 🌱 Trainee Software Development at Northcoders
 - 📫 How to reach me: merin.yilmaz@gmail.com
 
 <!---
